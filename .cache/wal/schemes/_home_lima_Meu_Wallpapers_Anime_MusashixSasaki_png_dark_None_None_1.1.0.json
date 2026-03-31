@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Anime/MusashixSasaki.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0706",
+        "foreground": "#eae4db",
+        "cursor": "#eae4db"
+    },
+    "colors": {
+        "color0": "#0d0706",
+        "color1": "#5A6158",
+        "color2": "#847A6F",
+        "color3": "#3A9493",
+        "color4": "#A2A196",
+        "color5": "#D4B3A0",
+        "color6": "#E9CEAE",
+        "color7": "#eae4db",
+        "color8": "#a39f99",
+        "color9": "#5A6158",
+        "color10": "#847A6F",
+        "color11": "#3A9493",
+        "color12": "#A2A196",
+        "color13": "#D4B3A0",
+        "color14": "#E9CEAE",
+        "color15": "#eae4db"
+    }
+}

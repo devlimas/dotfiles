@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/marble2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#070D0E",
+        "foreground": "#93c0d3",
+        "cursor": "#93c0d3"
+    },
+    "colors": {
+        "color0": "#070D0E",
+        "color1": "#184D64",
+        "color2": "#595654",
+        "color3": "#945616",
+        "color4": "#9D7349",
+        "color5": "#C79251",
+        "color6": "#136D8E",
+        "color7": "#93c0d3",
+        "color8": "#668693",
+        "color9": "#184D64",
+        "color10": "#595654",
+        "color11": "#945616",
+        "color12": "#9D7349",
+        "color13": "#C79251",
+        "color14": "#136D8E",
+        "color15": "#93c0d3"
+    }
+}

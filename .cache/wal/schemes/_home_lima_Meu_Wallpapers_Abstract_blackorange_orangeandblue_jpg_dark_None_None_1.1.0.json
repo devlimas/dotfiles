@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Abstract/blackorange/orangeandblue.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#070D0E",
+        "foreground": "#80adbe",
+        "cursor": "#80adbe"
+    },
+    "colors": {
+        "color0": "#070D0E",
+        "color1": "#403F41",
+        "color2": "#174D64",
+        "color3": "#595654",
+        "color4": "#945616",
+        "color5": "#9E7348",
+        "color6": "#B39D7C",
+        "color7": "#80adbe",
+        "color8": "#597985",
+        "color9": "#403F41",
+        "color10": "#174D64",
+        "color11": "#595654",
+        "color12": "#945616",
+        "color13": "#9E7348",
+        "color14": "#B39D7C",
+        "color15": "#80adbe"
+    }
+}

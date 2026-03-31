@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Abstract/solid/redblack.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0101",
+        "foreground": "#b6adb9",
+        "cursor": "#b6adb9"
+    },
+    "colors": {
+        "color0": "#0a0101",
+        "color1": "#8F1F2E",
+        "color2": "#933549",
+        "color3": "#AA3950",
+        "color4": "#A55167",
+        "color5": "#B0526A",
+        "color6": "#CA506B",
+        "color7": "#b6adb9",
+        "color8": "#7f7981",
+        "color9": "#8F1F2E",
+        "color10": "#933549",
+        "color11": "#AA3950",
+        "color12": "#A55167",
+        "color13": "#B0526A",
+        "color14": "#CA506B",
+        "color15": "#b6adb9"
+    }
+}

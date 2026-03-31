@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/SolEMontanha/Sol_Montanha2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121216",
+        "foreground": "#f2c8c0",
+        "cursor": "#f2c8c0"
+    },
+    "colors": {
+        "color0": "#121216",
+        "color1": "#F78D76",
+        "color2": "#655F9E",
+        "color3": "#586AB5",
+        "color4": "#9C6A91",
+        "color5": "#C5788C",
+        "color6": "#7A86CC",
+        "color7": "#f2c8c0",
+        "color8": "#a98c86",
+        "color9": "#F78D76",
+        "color10": "#655F9E",
+        "color11": "#586AB5",
+        "color12": "#9C6A91",
+        "color13": "#C5788C",
+        "color14": "#7A86CC",
+        "color15": "#f2c8c0"
+    }
+}

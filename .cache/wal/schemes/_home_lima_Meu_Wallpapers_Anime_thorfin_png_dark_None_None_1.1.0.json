@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Anime/thorfin.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0802",
+        "foreground": "#e5d0c6",
+        "cursor": "#e5d0c6"
+    },
+    "colors": {
+        "color0": "#0E0802",
+        "color1": "#EC621E",
+        "color2": "#97705E",
+        "color3": "#FF9923",
+        "color4": "#F0A260",
+        "color5": "#EFC44F",
+        "color6": "#B5A39F",
+        "color7": "#e5d0c6",
+        "color8": "#a0918a",
+        "color9": "#EC621E",
+        "color10": "#97705E",
+        "color11": "#FF9923",
+        "color12": "#F0A260",
+        "color13": "#EFC44F",
+        "color14": "#B5A39F",
+        "color15": "#e5d0c6"
+    }
+}

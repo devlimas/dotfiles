@@ -1,0 +1,8 @@
+#!/bin/sh
+
+branch="$(git rev-parse --abbrev-ref HEAD)"
+
+if [ "$branch" = "study" ]; then
+  echo "ERRO: Push proibido na branch 'study'!"
+  exit 1
+fi

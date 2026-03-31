@@ -1,0 +1,69 @@
+@import "../../.cache/wal/colors-waybar.css";
+
+window {
+    background-color: rgba(1, 2, 12, 0.85); /* Usando o seu @background com opacidade */
+}
+
+button {
+    color: @foreground; /* Texto usando a cor clara do tema */
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgba(60, 80, 130, 0.1); /* Um toque do roxo @color5 bem sutil */
+    border-style: solid;
+    border-width: 4px; /* Diminuído para um look mais clean */
+    border-color: transparent;
+    border-radius: 32px;
+    margin: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 35%;
+    transition: all 0.3s ease;
+}
+
+button:active, button:hover {
+    color: @background;
+    border-color: @color1; /* Laranja vibrante do pôr do sol no hover */
+    background-color: @color1;
+    outline-style: none;
+    transition: all 0.4s cubic-bezier(.55,0,.1,1);
+    animation: breathehover 3s ease infinite;
+}
+
+@keyframes breathehover {
+    0% {
+        box-shadow: 0 0 0px @color1;
+        background-color: @color1;
+    }
+    50% {
+        box-shadow: 0 0 20px @color1;
+        background-color: @color2; /* Alterna entre os tons de laranja/vermelho */
+    }
+    100% {
+        box-shadow: 0 0 0px @color1;
+        background-color: @color1;
+    }
+}
+
+#lock {
+    background-image: image(url("/home/lima/.config/wlogout/icons/lock.png"));
+}
+
+#shutdown {
+    background-image: image(url("/home/lima/.config/wlogout/icons/shutdown.png"));
+}
+
+#reboot {
+    background-image: image(url("/home/lima/.config/wlogout/icons/reboot.png"));
+}
+
+#logout {
+    background-image: image(url("/home/lima/.config/wlogout/icons/logout.png"));
+}
+
+#suspend {
+    background-image: image(url("/home/lima/.config/wlogout/icons/suspend.png"));
+}
+
+#hibernate {
+    background-image: image(url("/home/lima/.config/wlogout/icons/hibernate.png"));
+}

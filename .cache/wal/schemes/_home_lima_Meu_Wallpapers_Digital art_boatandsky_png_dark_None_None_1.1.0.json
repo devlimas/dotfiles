@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Digital art/boatandsky.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1e25",
+        "foreground": "#a1bbd4",
+        "cursor": "#a1bbd4"
+    },
+    "colors": {
+        "color0": "#1f1e25",
+        "color1": "#2A5E9D",
+        "color2": "#675A95",
+        "color3": "#64649F",
+        "color4": "#736595",
+        "color5": "#956F94",
+        "color6": "#C57B84",
+        "color7": "#a1bbd4",
+        "color8": "#708294",
+        "color9": "#2A5E9D",
+        "color10": "#675A95",
+        "color11": "#64649F",
+        "color12": "#736595",
+        "color13": "#956F94",
+        "color14": "#C57B84",
+        "color15": "#a1bbd4"
+    }
+}

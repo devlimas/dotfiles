@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Tokyo-Night/okk56hffewk71.png",
+    "alpha": "100",
+    "special": {
+        "background": "#050516",
+        "foreground": "#baabce",
+        "cursor": "#baabce"
+    },
+    "colors": {
+        "color0": "#050516",
+        "color1": "#413D8B",
+        "color2": "#1950AB",
+        "color3": "#3047B2",
+        "color4": "#4C51B4",
+        "color5": "#1463CD",
+        "color6": "#605BC6",
+        "color7": "#baabce",
+        "color8": "#827790",
+        "color9": "#413D8B",
+        "color10": "#1950AB",
+        "color11": "#3047B2",
+        "color12": "#4C51B4",
+        "color13": "#1463CD",
+        "color14": "#605BC6",
+        "color15": "#baabce"
+    }
+}

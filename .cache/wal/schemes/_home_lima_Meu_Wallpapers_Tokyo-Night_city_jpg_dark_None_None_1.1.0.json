@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Tokyo-Night/city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a1011",
+        "foreground": "#c4c2c1",
+        "cursor": "#c4c2c1"
+    },
+    "colors": {
+        "color0": "#0a1011",
+        "color1": "#3A4243",
+        "color2": "#4F4E4D",
+        "color3": "#655D58",
+        "color4": "#706D6C",
+        "color5": "#976860",
+        "color6": "#91827F",
+        "color7": "#c4c2c1",
+        "color8": "#898787",
+        "color9": "#3A4243",
+        "color10": "#4F4E4D",
+        "color11": "#655D58",
+        "color12": "#706D6C",
+        "color13": "#976860",
+        "color14": "#91827F",
+        "color15": "#c4c2c1"
+    }
+}

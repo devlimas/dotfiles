@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/JP/mont fuji.png",
+    "alpha": "100",
+    "special": {
+        "background": "#030712",
+        "foreground": "#e9d6d0",
+        "cursor": "#e9d6d0"
+    },
+    "colors": {
+        "color0": "#030712",
+        "color1": "#033A88",
+        "color2": "#144FA5",
+        "color3": "#5B6D9D",
+        "color4": "#4172C9",
+        "color5": "#6E89CB",
+        "color6": "#A197A1",
+        "color7": "#e9d6d0",
+        "color8": "#a39591",
+        "color9": "#033A88",
+        "color10": "#144FA5",
+        "color11": "#5B6D9D",
+        "color12": "#4172C9",
+        "color13": "#6E89CB",
+        "color14": "#A197A1",
+        "color15": "#e9d6d0"
+    }
+}

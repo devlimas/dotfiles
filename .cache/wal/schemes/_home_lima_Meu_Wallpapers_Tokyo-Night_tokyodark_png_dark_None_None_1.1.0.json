@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Tokyo-Night/tokyodark.png",
+    "alpha": "100",
+    "special": {
+        "background": "#040A15",
+        "foreground": "#beada3",
+        "cursor": "#beada3"
+    },
+    "colors": {
+        "color0": "#040A15",
+        "color1": "#2A3948",
+        "color2": "#0A3160",
+        "color3": "#304552",
+        "color4": "#194760",
+        "color5": "#4D4D4E",
+        "color6": "#66615D",
+        "color7": "#beada3",
+        "color8": "#857972",
+        "color9": "#2A3948",
+        "color10": "#0A3160",
+        "color11": "#304552",
+        "color12": "#194760",
+        "color13": "#4D4D4E",
+        "color14": "#66615D",
+        "color15": "#beada3"
+    }
+}

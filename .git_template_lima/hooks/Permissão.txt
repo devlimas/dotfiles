@@ -1,0 +1,3 @@
+Permissão de scripts: chmod +x ~/.git_template/hooks/pre-commit ~/.git_template/hooks/pre-push
+
+Definição de template: git config --global init.templatedir '~/.git_template'

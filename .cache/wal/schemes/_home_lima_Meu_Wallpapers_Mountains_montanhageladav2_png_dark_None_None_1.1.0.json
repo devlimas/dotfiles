@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Mountains/montanhageladav2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101b1e",
+        "foreground": "#dee8f0",
+        "cursor": "#dee8f0"
+    },
+    "colors": {
+        "color0": "#101b1e",
+        "color1": "#2288A6",
+        "color2": "#6190AC",
+        "color3": "#79A3C3",
+        "color4": "#88A1B7",
+        "color5": "#94B5D0",
+        "color6": "#B0CDE2",
+        "color7": "#dee8f0",
+        "color8": "#9ba2a8",
+        "color9": "#2288A6",
+        "color10": "#6190AC",
+        "color11": "#79A3C3",
+        "color12": "#88A1B7",
+        "color13": "#94B5D0",
+        "color14": "#B0CDE2",
+        "color15": "#dee8f0"
+    }
+}

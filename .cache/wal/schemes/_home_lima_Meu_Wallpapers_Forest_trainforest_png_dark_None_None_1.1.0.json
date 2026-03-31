@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Forest/trainforest.png",
+    "alpha": "100",
+    "special": {
+        "background": "#071516",
+        "foreground": "#a2c0bf",
+        "cursor": "#a2c0bf"
+    },
+    "colors": {
+        "color0": "#071516",
+        "color1": "#1A6558",
+        "color2": "#286A55",
+        "color3": "#267366",
+        "color4": "#308771",
+        "color5": "#4D916E",
+        "color6": "#627C84",
+        "color7": "#a2c0bf",
+        "color8": "#718685",
+        "color9": "#1A6558",
+        "color10": "#286A55",
+        "color11": "#267366",
+        "color12": "#308771",
+        "color13": "#4D916E",
+        "color14": "#627C84",
+        "color15": "#a2c0bf"
+    }
+}

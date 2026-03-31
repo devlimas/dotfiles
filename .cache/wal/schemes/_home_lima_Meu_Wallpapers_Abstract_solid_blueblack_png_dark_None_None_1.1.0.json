@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Abstract/solid/blueblack.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0F1B30",
+        "foreground": "#93c1e8",
+        "cursor": "#93c1e8"
+    },
+    "colors": {
+        "color0": "#0F1B30",
+        "color1": "#285987",
+        "color2": "#1A6594",
+        "color3": "#2B6697",
+        "color4": "#3B73AA",
+        "color5": "#427BB7",
+        "color6": "#4480BE",
+        "color7": "#93c1e8",
+        "color8": "#6687a2",
+        "color9": "#285987",
+        "color10": "#1A6594",
+        "color11": "#2B6697",
+        "color12": "#3B73AA",
+        "color13": "#427BB7",
+        "color14": "#4480BE",
+        "color15": "#93c1e8"
+    }
+}

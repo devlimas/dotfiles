@@ -1,0 +1,38 @@
+#!/bin/sh
+
+# o git passa o caminho do arquivo temporário da mensagem como o primeiro argumento ($1)
+MSG_FILE=$1
+MSG_CONTENT=$(cat "$MSG_FILE")
+
+# expressão regular para o padrão Conventional Commits
+# feat, fix, chore, docs, style, refactor, perf, test, build, ci, revert, hotfix
+REGEXP="^(feat|fix|chore|docs|style|refactor|perf|test|build|ci|revert|hotfix)(\(.+\))?!?: .+"
+
+# ignora mensagens de merge (o git cria essas automaticamente e elas não seguem o padrão)
+if echo "$MSG_CONTENT" | grep -Eq "^Merge branch"; then
+    exit 0
+fi
+
+# valida a mensagem
+if ! echo "$MSG_CONTENT" | grep -Eq "$REGEXP"; then
+	echo ""
+	echo "❌ ERRO: Mensagem de commit fora do padrão!"
+	echo "------------------------------------------------------"
+	echo "Siga o padrão Conventional Commits. Exemplos:"
+	echo "  feat:     Introduz uma nova funcionalidade no código"
+	echo "  fix:      Corrige um erro ou bug"
+	echo "  chore:    Tarefas de manutenção que não alteram o código (ex: .gitignore)"
+	echo "  docs:     Mudanças apenas na documentação (ex: README.md)"
+	echo "  style:    Ajustes de formatação/estilo que não alteram a lógica"
+	echo "  refactor: Refatoração de código que não altera comportamento"
+	echo "  perf:     Mudança de código focada em melhorar o desempenho"
+	echo "  test:     Adição ou correção de testes existentes"
+	echo "  build:    Alterações que afetam o sistema de build ou dependências"
+	echo "  ci:       Mudanças em arquivos de configuração de CI (ex: GitHub Actions)"
+	echo "  revert:   Reverte um commit anterior"
+	echo "  hotfix:   Correção crítica urgente em produção"
+	echo "------------------------------------------------------"
+	echo "Para saber mais: https://www.conventionalcommits.org/"
+	echo ""
+	exit 1
+fi

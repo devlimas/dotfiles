@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Abstract/wallhaven-l8ex3q_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010508",
+        "foreground": "#e3aebe",
+        "cursor": "#e3aebe"
+    },
+    "colors": {
+        "color0": "#010508",
+        "color1": "#324A6D",
+        "color2": "#9D1C2A",
+        "color3": "#E12331",
+        "color4": "#EA354A",
+        "color5": "#C8445E",
+        "color6": "#516990",
+        "color7": "#e3aebe",
+        "color8": "#9e7985",
+        "color9": "#324A6D",
+        "color10": "#9D1C2A",
+        "color11": "#E12331",
+        "color12": "#EA354A",
+        "color13": "#C8445E",
+        "color14": "#516990",
+        "color15": "#e3aebe"
+    }
+}

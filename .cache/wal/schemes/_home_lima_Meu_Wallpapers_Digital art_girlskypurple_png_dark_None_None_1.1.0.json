@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Digital art/girlskypurple.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0d1b",
+        "foreground": "#c7b1ba",
+        "cursor": "#c7b1ba"
+    },
+    "colors": {
+        "color0": "#0c0d1b",
+        "color1": "#9C5367",
+        "color2": "#D64851",
+        "color3": "#555987",
+        "color4": "#615F88",
+        "color5": "#6E668C",
+        "color6": "#8C7188",
+        "color7": "#c7b1ba",
+        "color8": "#8b7b82",
+        "color9": "#9C5367",
+        "color10": "#D64851",
+        "color11": "#555987",
+        "color12": "#615F88",
+        "color13": "#6E668C",
+        "color14": "#8C7188",
+        "color15": "#c7b1ba"
+    }
+}

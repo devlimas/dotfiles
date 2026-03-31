@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/arch.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1f25",
+        "foreground": "#e1e1e2",
+        "cursor": "#e1e1e2"
+    },
+    "colors": {
+        "color0": "#1e1f25",
+        "color1": "#5498D3",
+        "color2": "#5CAEF3",
+        "color3": "#8A8B91",
+        "color4": "#9C9DA2",
+        "color5": "#AAABAF",
+        "color6": "#BDBEC1",
+        "color7": "#e1e1e2",
+        "color8": "#9d9d9e",
+        "color9": "#5498D3",
+        "color10": "#5CAEF3",
+        "color11": "#8A8B91",
+        "color12": "#9C9DA2",
+        "color13": "#AAABAF",
+        "color14": "#BDBEC1",
+        "color15": "#e1e1e2"
+    }
+}

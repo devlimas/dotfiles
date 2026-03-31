@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Wallpapers/Katana.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0E0E",
+        "foreground": "#c1cbc6",
+        "cursor": "#c1cbc6"
+    },
+    "colors": {
+        "color0": "#0A0E0E",
+        "color1": "#5E6E60",
+        "color2": "#4D6C71",
+        "color3": "#9F7360",
+        "color4": "#768875",
+        "color5": "#597C84",
+        "color6": "#6D9197",
+        "color7": "#c1cbc6",
+        "color8": "#878e8a",
+        "color9": "#5E6E60",
+        "color10": "#4D6C71",
+        "color11": "#9F7360",
+        "color12": "#768875",
+        "color13": "#597C84",
+        "color14": "#6D9197",
+        "color15": "#c1cbc6"
+    }
+}

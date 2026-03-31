@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Forest/4.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c0c",
+        "foreground": "#cacbd1",
+        "cursor": "#cacbd1"
+    },
+    "colors": {
+        "color0": "#0c0c0c",
+        "color1": "#6B6B71",
+        "color2": "#7A7B84",
+        "color3": "#807F88",
+        "color4": "#7E8189",
+        "color5": "#898A94",
+        "color6": "#989AA5",
+        "color7": "#cacbd1",
+        "color8": "#8d8e92",
+        "color9": "#6B6B71",
+        "color10": "#7A7B84",
+        "color11": "#807F88",
+        "color12": "#7E8189",
+        "color13": "#898A94",
+        "color14": "#989AA5",
+        "color15": "#cacbd1"
+    }
+}

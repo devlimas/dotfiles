@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Abstract/Fractal Maze/52.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0607",
+        "foreground": "#e9e4df",
+        "cursor": "#e9e4df"
+    },
+    "colors": {
+        "color0": "#0f0607",
+        "color1": "#AF1C43",
+        "color2": "#8A6869",
+        "color3": "#977E7F",
+        "color4": "#AD9596",
+        "color5": "#C9B4B0",
+        "color6": "#D3C3BC",
+        "color7": "#e9e4df",
+        "color8": "#a39f9c",
+        "color9": "#AF1C43",
+        "color10": "#8A6869",
+        "color11": "#977E7F",
+        "color12": "#AD9596",
+        "color13": "#C9B4B0",
+        "color14": "#D3C3BC",
+        "color15": "#e9e4df"
+    }
+}

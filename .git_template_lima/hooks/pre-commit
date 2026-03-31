@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# verificar se é o primeiro commit do repo
+if git rev-parse --verify HEAD >/dev/null 2>&1; then
+    against=HEAD
+else
+    # hash de um "árvore vazia" (padrão do git para comparações iniciais)
+    against=$(git hash-object -t tree /dev/null)
+fi
+
+# bloqueio de branch (com fallback para repo vazio)
+branch="$(git rev-parse --abbrev-ref HEAD 2>/dev/null || echo "main")"
+if [ "$branch" = "study" ]; then
+  echo "ERRO: Commits não são permitidos na branch 'study'."
+  exit 1
+fi
+
+# arquivos sensíveis
+if git diff --cached --name-only | grep -Eq '\.(env|pem|key)$'; then
+  echo "CUIDADO: Você está tentando commitar um arquivo sensível!"
+  exit 1
+fi

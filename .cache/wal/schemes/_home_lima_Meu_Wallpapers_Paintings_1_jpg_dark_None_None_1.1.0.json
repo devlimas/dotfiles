@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Paintings/1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1c19",
+        "foreground": "#cacddd",
+        "cursor": "#cacddd"
+    },
+    "colors": {
+        "color0": "#1f1c19",
+        "color1": "#A48874",
+        "color2": "#D49665",
+        "color3": "#707892",
+        "color4": "#7C84A1",
+        "color5": "#A1979C",
+        "color6": "#D1B6A8",
+        "color7": "#cacddd",
+        "color8": "#8d8f9a",
+        "color9": "#A48874",
+        "color10": "#D49665",
+        "color11": "#707892",
+        "color12": "#7C84A1",
+        "color13": "#A1979C",
+        "color14": "#D1B6A8",
+        "color15": "#cacddd"
+    }
+}

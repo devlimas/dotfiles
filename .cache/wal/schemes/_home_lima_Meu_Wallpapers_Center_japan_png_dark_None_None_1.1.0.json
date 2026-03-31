@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Center/japan.png",
+    "alpha": "100",
+    "special": {
+        "background": "#660101",
+        "foreground": "#d9d2ce",
+        "cursor": "#d9d2ce"
+    },
+    "colors": {
+        "color0": "#660101",
+        "color1": "#99908A",
+        "color2": "#A59B94",
+        "color3": "#AFA59C",
+        "color4": "#B9AFA7",
+        "color5": "#CF988A",
+        "color6": "#CAA997",
+        "color7": "#d9d2ce",
+        "color8": "#979390",
+        "color9": "#99908A",
+        "color10": "#A59B94",
+        "color11": "#AFA59C",
+        "color12": "#B9AFA7",
+        "color13": "#CF988A",
+        "color14": "#CAA997",
+        "color15": "#d9d2ce"
+    }
+}

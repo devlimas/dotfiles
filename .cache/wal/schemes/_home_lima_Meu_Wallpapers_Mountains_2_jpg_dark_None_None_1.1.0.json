@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Mountains/2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0D1F",
+        "foreground": "#adb1bb",
+        "cursor": "#adb1bb"
+    },
+    "colors": {
+        "color0": "#0A0D1F",
+        "color1": "#3A4A65",
+        "color2": "#42495D",
+        "color3": "#4B566E",
+        "color4": "#57637A",
+        "color5": "#62697D",
+        "color6": "#5B6A82",
+        "color7": "#adb1bb",
+        "color8": "#797b82",
+        "color9": "#3A4A65",
+        "color10": "#42495D",
+        "color11": "#4B566E",
+        "color12": "#57637A",
+        "color13": "#62697D",
+        "color14": "#5B6A82",
+        "color15": "#adb1bb"
+    }
+}

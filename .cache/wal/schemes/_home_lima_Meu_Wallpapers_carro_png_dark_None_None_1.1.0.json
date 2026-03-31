@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/carro.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f101e",
+        "foreground": "#e0e4e8",
+        "cursor": "#e0e4e8"
+    },
+    "colors": {
+        "color0": "#0f101e",
+        "color1": "#3257B2",
+        "color2": "#5C6FA6",
+        "color3": "#2F5CD1",
+        "color4": "#3963CA",
+        "color5": "#728AC0",
+        "color6": "#A9B2C3",
+        "color7": "#e0e4e8",
+        "color8": "#9c9fa2",
+        "color9": "#3257B2",
+        "color10": "#5C6FA6",
+        "color11": "#2F5CD1",
+        "color12": "#3963CA",
+        "color13": "#728AC0",
+        "color14": "#A9B2C3",
+        "color15": "#e0e4e8"
+    }
+}

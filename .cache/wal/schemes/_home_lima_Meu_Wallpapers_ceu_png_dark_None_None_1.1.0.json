@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/ceu.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f18",
+        "foreground": "#c4e8f4",
+        "cursor": "#c4e8f4"
+    },
+    "colors": {
+        "color0": "#0d0f18",
+        "color1": "#2783BD",
+        "color2": "#5D8EB1",
+        "color3": "#2A94CE",
+        "color4": "#5DABDF",
+        "color5": "#72CAF4",
+        "color6": "#9FAFAD",
+        "color7": "#c4e8f4",
+        "color8": "#89a2aa",
+        "color9": "#2783BD",
+        "color10": "#5D8EB1",
+        "color11": "#2A94CE",
+        "color12": "#5DABDF",
+        "color13": "#72CAF4",
+        "color14": "#9FAFAD",
+        "color15": "#c4e8f4"
+    }
+}

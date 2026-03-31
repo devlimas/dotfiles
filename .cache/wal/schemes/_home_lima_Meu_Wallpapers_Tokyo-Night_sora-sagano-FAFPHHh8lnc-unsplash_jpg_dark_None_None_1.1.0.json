@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Tokyo-Night/sora-sagano-FAFPHHh8lnc-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#06050D",
+        "foreground": "#d5b9b1",
+        "cursor": "#d5b9b1"
+    },
+    "colors": {
+        "color0": "#06050D",
+        "color1": "#543C57",
+        "color2": "#354161",
+        "color3": "#3A436A",
+        "color4": "#454365",
+        "color5": "#664B60",
+        "color6": "#A35C59",
+        "color7": "#d5b9b1",
+        "color8": "#95817b",
+        "color9": "#543C57",
+        "color10": "#354161",
+        "color11": "#3A436A",
+        "color12": "#454365",
+        "color13": "#664B60",
+        "color14": "#A35C59",
+        "color15": "#d5b9b1"
+    }
+}

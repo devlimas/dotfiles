@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Abstract/wallhaven-j33q5q_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#04010C",
+        "foreground": "#a477ce",
+        "cursor": "#a477ce"
+    },
+    "colors": {
+        "color0": "#04010C",
+        "color1": "#5E0159",
+        "color2": "#A21010",
+        "color3": "#BE283C",
+        "color4": "#D51218",
+        "color5": "#C69A4F",
+        "color6": "#1A009B",
+        "color7": "#a477ce",
+        "color8": "#725390",
+        "color9": "#5E0159",
+        "color10": "#A21010",
+        "color11": "#BE283C",
+        "color12": "#D51218",
+        "color13": "#C69A4F",
+        "color14": "#1A009B",
+        "color15": "#a477ce"
+    }
+}

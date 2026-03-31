@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Digital art/girldarkblue.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020E14",
+        "foreground": "#8bc3c4",
+        "cursor": "#8bc3c4"
+    },
+    "colors": {
+        "color0": "#020E14",
+        "color1": "#0B4656",
+        "color2": "#335B43",
+        "color3": "#0E5162",
+        "color4": "#216565",
+        "color5": "#A14830",
+        "color6": "#5D8F75",
+        "color7": "#8bc3c4",
+        "color8": "#618889",
+        "color9": "#0B4656",
+        "color10": "#335B43",
+        "color11": "#0E5162",
+        "color12": "#216565",
+        "color13": "#A14830",
+        "color14": "#5D8F75",
+        "color15": "#8bc3c4"
+    }
+}

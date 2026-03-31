@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/lima/Meu/Wallpapers/Paintings/2.jpg"
+let background = "#161213"
+let foreground = "#e1dfcf"
+let cursor     = "#e1dfcf"
+
+" Colors
+let color0  = "#161213"
+let color1  = "#7F8072"
+let color2  = "#7A837B"
+let color3  = "#88813B"
+let color4  = "#8F8B74"
+let color5  = "#8F9689"
+let color6  = "#A9AB98"
+let color7  = "#e1dfcf"
+let color8  = "#9d9c90"
+let color9  = "#7F8072"
+let color10 = "#7A837B"
+let color11 = "#88813B"
+let color12 = "#8F8B74"
+let color13 = "#8F9689"
+let color14 = "#A9AB98"
+let color15 = "#e1dfcf"
