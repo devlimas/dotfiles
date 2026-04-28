@@ -1,0 +1,6 @@
+sudo chmod 777 /usr/share/sddm/themes/boo/background.jpg
+
+Adicione o wallpaper=background.jpg em: sudo nano /usr/share/sddm/themes/boo/theme.conf
+
+caso tenha alguma problema com o chmod 777, use: sudo chmod 644 /usr/share/sddm/themes/boo/background.jpg
+sudo chown $USER:$(id -gn) /usr/share/sddm/themes/boo/background.jpg
