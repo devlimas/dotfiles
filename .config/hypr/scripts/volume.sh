@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  ##
-# Scripts for volume controls for audio and mic
+# Scripts for volume controls for audio and mic 
 
-iDIR="$HOME/.config/hypr/scripts/icons"
+iDIR="$HOME/.config/hypr/scripts/IconsScripts"
 sDIR="."
 
 # Get Volume

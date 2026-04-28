@@ -110,13 +110,13 @@ tooltip {
     background: transparent;
     border: none;
     border-radius: 8px;
-
+    
     /* O Segredo do alinhamento: */
     margin: 4px 2px;
-    padding: 0px;
+    padding: 0px; 
     min-width: 32px;  /* Força um quadrado/retângulo perfeito */
     min-height: 24px; /* Ajuste conforme a altura da sua barra */
-
+    
     transition: all 0.2s ease;
 }
 
@@ -188,7 +188,7 @@ tooltip {
     color: #89b4fa;
     border-radius: 0px 10px 10px 0px;
     margin-right: 10px
-}
+} 
 
 #pulseaudio {
     color: #89b4fa;
@@ -214,7 +214,7 @@ tooltip {
 }
 #battery.critical {
     color: #F00;
-}
+} 
 #custom-moon {
     border-radius: 0px 10px 10px 0px;
     border-right: 0px;

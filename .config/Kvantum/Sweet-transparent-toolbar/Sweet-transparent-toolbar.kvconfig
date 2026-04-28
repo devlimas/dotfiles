@@ -1,6 +1,6 @@
 [%General]
 author=Eliver Lara
-comment=A dark and modern theme for Kvantum.
+comment=A dark and modern theme for Kvantum. 
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
 left_tabs=true

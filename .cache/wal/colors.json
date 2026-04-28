@@ -1,28 +1,28 @@
 {
-    "wallpaper": "/home/lima/Meu/Wallpapers/Paintings/2.jpg",
+    "wallpaper": "/home/lima/Meu/Wallpapers/Forest/trainforest.png",
     "alpha": "100",
 
     "special": {
-        "background": "#161213",
-        "foreground": "#e1dfcf",
-        "cursor": "#e1dfcf"
+        "background": "#071516",
+        "foreground": "#a2c0bf",
+        "cursor": "#a2c0bf"
     },
     "colors": {
-        "color0": "#161213",
-        "color1": "#7F8072",
-        "color2": "#7A837B",
-        "color3": "#88813B",
-        "color4": "#8F8B74",
-        "color5": "#8F9689",
-        "color6": "#A9AB98",
-        "color7": "#e1dfcf",
-        "color8": "#9d9c90",
-        "color9": "#7F8072",
-        "color10": "#7A837B",
-        "color11": "#88813B",
-        "color12": "#8F8B74",
-        "color13": "#8F9689",
-        "color14": "#A9AB98",
-        "color15": "#e1dfcf"
+        "color0": "#071516",
+        "color1": "#1A6558",
+        "color2": "#286A55",
+        "color3": "#267366",
+        "color4": "#308771",
+        "color5": "#4D916E",
+        "color6": "#627C84",
+        "color7": "#a2c0bf",
+        "color8": "#718685",
+        "color9": "#1A6558",
+        "color10": "#286A55",
+        "color11": "#267366",
+        "color12": "#308771",
+        "color13": "#4D916E",
+        "color14": "#627C84",
+        "color15": "#a2c0bf"
     }
 }

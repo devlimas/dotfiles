@@ -1,8 +1,21 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+[[ -f ~/.cache/wal/sequences ]] && cat ~/.cache/wal/sequences
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+export JIRA_URL="https://sirushost.atlassian.net/jira/software/projects/SIRUS/boards/1"
+export XDG_CURRENT_DESKTOP=Hyprland
+export XDG_SESSION_DESKTOP=Hyprland
+
+[[ -f ~/.cache/wal/colors.sh ]] && source ~/.cache/wal/colors.sh
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time Oh My Zsh is loaded, in which case,
@@ -103,14 +116,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export JIRA_URL="https://sirushost.atlassian.net/jira/software/projects/SIRUS/boards/1"
-export XDG_CURRENT_DESKTOP=Hyprland
-export XDG_SESSION_DESKTOP=Hyprland
-
-(cat ~/.cache/wal/sequences &)
-cat ~/.cache/wal/sequences
-source ~/.cache/wal/colors-tty.sh
-
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/git-auto-fetch/git-auto-fetch.zsh
@@ -119,3 +124,5 @@ source /usr/share/zsh/plugins/jira/jira.zsh
 RPROMPT='$(branch_prompt_info)'
 
 fastfetch
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.

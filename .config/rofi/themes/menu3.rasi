@@ -53,7 +53,7 @@ inputbar {
     children:                    [ "entry" ];
     expand:                      false;
     background-color:            @background;
-
+    
     border-radius:               1em 0em 0em 1em;
 }
 entry {

@@ -15,7 +15,7 @@ configuration {
     window-format:               "{w}{t}";
 	font:                        "JetBrainsMono Nerd Font 10";
     icon-theme:                  "Tela-circle-dracula";
-
+    
 }
 
 /* ---- Load pywal colors (custom wal template) ---- */
@@ -31,7 +31,7 @@ window {
     y-offset:                   0px;
     spacing:                    0px;
     padding:                    0px;
-    margin:                     0px;
+    margin:                     0px; 
     border:                     1px;
     border-color:               @foreground;
     cursor:                     "default";
@@ -40,7 +40,7 @@ window {
     fullscreen:                 false;
     enabled:                    true;
     border-radius:              @radius;
-
+    
 }
 
 /* ---- Mainbox ---- */
@@ -130,7 +130,7 @@ button selected {
     text-color:                @foreground;
     border:                    1px;
     border-color:              @background;
-
+	
 }
 
 /* ---- Listview ---- */

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Distros/archverde.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090d10",
+        "foreground": "#aecbb8",
+        "cursor": "#aecbb8"
+    },
+    "colors": {
+        "color0": "#090d10",
+        "color1": "#356D4A",
+        "color2": "#226153",
+        "color3": "#4F6B51",
+        "color4": "#419C58",
+        "color5": "#599863",
+        "color6": "#94A46B",
+        "color7": "#aecbb8",
+        "color8": "#798e80",
+        "color9": "#356D4A",
+        "color10": "#226153",
+        "color11": "#4F6B51",
+        "color12": "#419C58",
+        "color13": "#599863",
+        "color14": "#94A46B",
+        "color15": "#aecbb8"
+    }
+}

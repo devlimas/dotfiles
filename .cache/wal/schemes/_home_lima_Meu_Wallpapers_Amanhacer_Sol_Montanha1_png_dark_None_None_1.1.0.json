@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Amanhacer/Sol_Montanha1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#030A17",
+        "foreground": "#cfa5b9",
+        "cursor": "#cfa5b9"
+    },
+    "colors": {
+        "color0": "#030A17",
+        "color1": "#9F5877",
+        "color2": "#F7556D",
+        "color3": "#F66367",
+        "color4": "#FE9A6A",
+        "color5": "#F9C674",
+        "color6": "#465584",
+        "color7": "#cfa5b9",
+        "color8": "#907381",
+        "color9": "#9F5877",
+        "color10": "#F7556D",
+        "color11": "#F66367",
+        "color12": "#FE9A6A",
+        "color13": "#F9C674",
+        "color14": "#465584",
+        "color15": "#cfa5b9"
+    }
+}

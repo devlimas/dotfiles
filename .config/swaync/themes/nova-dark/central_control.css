@@ -15,10 +15,10 @@
 }
 
 /* Avoid 'annoying' backgroud */
-.blank-window {
-  background: transparent;
+.blank-window {  
+  background: transparent;  
 }
-
+  
 /* CONTROL CENTER ------------------------------------------------------------------------ */
 
 .control-center {
@@ -116,7 +116,7 @@ progressbar {
 .notification-group-close-all-button {
   background: transparent;
   color: @text;
-  margin: 4px;
+  margin: 4px; 
   border-radius: 6px;
   padding: 4px;
 }
@@ -124,7 +124,7 @@ progressbar {
 .notification-group-collapse-button:hover,
 .notification-group-close-all-button:hover {
   background: @hover;
-}
+}  
 
 /* WIDGETS --------------------------------------------------------------------------- */
 
@@ -220,7 +220,7 @@ progressbar {
   color: @text;
   border-radius: 20px;
 }
-
+ 
 .widget-mpris button {
   color: alpha(@text, .6);
 }
@@ -232,12 +232,12 @@ progressbar {
 .widget-mpris-album-art {
   border-radius: 16px;
 }
-
+ 
 .widget-mpris-title {
     font-weight: 700;
     font-size: 1rem;
 }
-
+ 
 .widget-mpris-subtitle {
     font-weight: 500;
     font-size: 0.8rem;

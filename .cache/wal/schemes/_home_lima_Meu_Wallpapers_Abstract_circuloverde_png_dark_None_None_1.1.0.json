@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lima/Meu/Wallpapers/Abstract/circuloverde.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c0d",
+        "foreground": "#9ddbc0",
+        "cursor": "#9ddbc0"
+    },
+    "colors": {
+        "color0": "#0c0c0d",
+        "color1": "#024F4F",
+        "color2": "#036E5F",
+        "color3": "#4D756B",
+        "color4": "#029A68",
+        "color5": "#0EC064",
+        "color6": "#04A588",
+        "color7": "#9ddbc0",
+        "color8": "#6d9986",
+        "color9": "#024F4F",
+        "color10": "#036E5F",
+        "color11": "#4D756B",
+        "color12": "#029A68",
+        "color13": "#0EC064",
+        "color14": "#04A588",
+        "color15": "#9ddbc0"
+    }
+}

@@ -1,7 +1,7 @@
 #!/bin/env bash
 
 # Path to the icons for notifications
-ICON_PATH="$HOME/.config/hypr/scripts/icons"
+ICON_PATH="$HOME/.config/hypr/scripts/IconsHyprlock"
 
 # Directory where screen recordings will be saved
 DIRECTORY="$HOME/screenrecord"

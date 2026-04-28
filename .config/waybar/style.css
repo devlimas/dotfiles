@@ -1,4 +1,4 @@
-@import "../../.cache/wal/colors-waybar.css";
+@import url("../../.cache/wal/colors-waybar.css");
 
 * {
     border: none;
@@ -67,16 +67,15 @@ tooltip {
     background-color: alpha(@background, 0.7);
     opacity: 0.8;
     padding: 0px 10px;
-    /* margin: 3px 0px; */
-    margin: 0px 0px;
     margin-top: 10px;
+
+    border: 1px solid @color15;
 }
 
 #memory {
-    color: @color11;
+    color: @foreground;
     border-radius: 10px 0px 0px 10px;
-    border-left: 0px;
-    border-right: 0px;
+    border-right: none;
 }
 
 #custom-temperature {
@@ -84,18 +83,23 @@ tooltip {
 }
 
 #custom-temperature.critical {
-    color: @color11;
+    color: @color4;
 }
 
 #backlight {
     border-radius: 10px 0px 0px 10px;
+    border-right: none;
 }
 
 #tray {
     border-radius: 10px;
     margin-right: 10px;
+    border-right: none;
 }
 
+/*
+--------------
+*/
 #workspaces {
     background-color: alpha(@background, 0.7);
     border-radius: 12px;
@@ -109,18 +113,18 @@ tooltip {
     background-color: alpha(@background, 0.0);
     border: none;
     border-radius: 8px;
-
+    
     /* O Segredo do alinhamento: */
     margin: 4px 2px;
-    padding: 0px;
+    padding: 0px; 
     min-width: 32px;  /* Força um quadrado/retângulo perfeito */
     min-height: 24px; /* Ajuste conforme a altura da sua barra */
-
+    
     transition: all 0.2s ease;
 }
 
 #workspaces button:hover {
-    background-color: @color8; /* Cor de fundo que aparece no hover */
+    background-color: alpha(@color15, 0.70); /* Cor de fundo que aparece no hover */
     color: @color7;      /* Cor do ícone no hover */
     border-radius: 8px;
     box-shadow: none;
@@ -129,12 +133,12 @@ tooltip {
 
 #workspaces button.active {
     color: @color15;
-    background-color: @color0; /* Destaque sutil para o fundo do ícone ativo */
+    background-color: alpha(@color1, 0.90); /* Destaque sutil para o fundo do ícone ativo */
     padding-right: 5px;
 }
 
 #workspaces button {
-    color: @color15;
+    color: @color7;
     background-color: alpha(@background, 0.0);
     border: none;
     border-radius: 8px;
@@ -159,10 +163,9 @@ tooltip {
 
 #custom-power_profile {
     color: @color9;
-    border-left: 0px;
-    border-right: 0px;
 }
 
+/*--------------------------*/
 #window {
     border-radius: 10px;
     margin-left: 60px;
@@ -170,50 +173,49 @@ tooltip {
 }
 
 #clock {
-    color: @color11;
+    color: @color7;
     border-radius: 10px;
     margin-left: 10px;
-    border: 1px solid
 }
 
 #network {
-    color: @color11;
+    color: @color7;
     border-radius: 0 10px 10px 0;
-    margin-right: 10px;
     border-left: 0px;
+    margin-right: 10px;
 }
 
 #bluetooth {
     color: @color10;
     border-radius: 0px 10px 10px 0px;
     margin-right: 10px
-}
+} 
 
 #pulseaudio {
-    color: @color10;
-    border-left: 0px;
-    border-right: 0px;
+    color: @color7;
+    border-right: none;
+    border-left: none;
 }
 
 #pulseaudio.microphone {
-    color: @color13;
-    border-left: 0px;
-    border-right: 0px;
+    color: @color7;
     border-radius: 0px 10px 10px 0px;
     margin-right: 10px;
+    border-right: 1px solid;
 }
 
 #battery {
-    color: @color9;
-    margin-top: 10px;
-    border: 1px;
+    color: @color7;
+    border-left: none;
+    border-right: none;
 }
 #battery.warning {
     color: @color11;
 }
 #battery.critical {
     color: @color9;
-}
+} 
+
 #custom-moon {
     border-radius: 0px 10px 10px 0px;
     border-right: 0px;

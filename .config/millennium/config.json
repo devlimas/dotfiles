@@ -19,8 +19,7 @@
   },
   "plugins": {
     "enabledPlugins": [
-      "steam-taskbar-progress",
-      "steam-db"
+      "steam-taskbar-progress"
     ]
   },
   "themes": {

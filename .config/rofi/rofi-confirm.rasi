@@ -7,8 +7,8 @@ configuration {
 }
 
 /*****----- Global Properties -----*****/
-@import "/home/lima/.config/rofi/themes/rofi-colors.rasi"
-@import "/home/lima/.config/rofi/rofi-vars.rasi"
+@import "~/.config/rofi/themes/rofi-colors.rasi"
+@import "~/.config/rofi/rofi-vars.rasi"
 
 
 /*****----- Main Window -----*****/
@@ -61,7 +61,7 @@ listview {
     reverse:                     false;
     fixed-height:                false;
     fixed-columns:               true;
-
+    
     spacing:                     5px;
     background-color:            transparent;
     text-color:                  @foreground;

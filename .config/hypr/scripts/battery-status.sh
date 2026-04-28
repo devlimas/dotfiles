@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to your icons
-ICON_PATH="$HOME/.config/hypr/scripts/icons"
+ICON_PATH="$HOME/.config/hypr/scripts/IconsScripts"
 
 # Function to send notifications
 send_notification() {

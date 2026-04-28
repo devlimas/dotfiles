@@ -1,11 +1,12 @@
-# 1. Pega o caminho do wallpaper do seu hyprpaper.conf
-WALL=$(grep 'path =' ~/.config/hypr/hyprpaper.conf | cut -d '=' -f 2 | xargs)
+#!/bin/bash
 
-# 2. Gera a paleta de cores baseada na imagem (o Pywal cria o arquivo ~/.cache/wal/colors-rofi-dark.rasi)
-# O parâmetro -n diz para não mudar o wallpaper do sistema, apenas gerar as cores.
-wal -i "$WALL" -n
+# 1. Pega o caminho da imagem do cache do wal
+WAL_IMG=$(cat "$HOME/.cache/wal/wal")
 
-# 3. Abre o rofi injetando a imagem e usando as cores que o wal acabou de gerar
-#rofi -show drun -theme-str "mainbox { background-image: url(\"$WALL\", width); }"
-
-rofi -show drun -theme-str "image { background-image: url(\"$WALL\", width); }"
+# 2. Executa o rofi com as correções de sintaxe
+rofi -show drun \
+-theme "/home/lima/.config/rofi/themes/menu6.rasi" \
+-theme-str "@import \"$HOME/.cache/wal/colors-rofi-dark.rasi\"" \
+-theme-str "image { background-image: url(\"$WAL_IMG\", width); }" \
+-theme-str "entry { placeholder: \"Search..\"; cursor: text; }" \
+-theme-str "inputbar { spacing: 10px; padding: 15px; margin: 10px; border-radius: 30px; background-color: @background; }"

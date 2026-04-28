@@ -1,6 +1,6 @@
 [%General]
 author=Eliver Lara
-comment=A dark theme created using the awesome Nord color pallete.
+comment=A dark theme created using the awesome Nord color pallete. 
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
 left_tabs=true

@@ -23,7 +23,7 @@ button {
 button:active, button:hover {
     color: @background;
     border-color: @color1; /* Laranja vibrante do pôr do sol no hover */
-    background-color: @color1;
+    background-color: @color1; 
     outline-style: none;
     transition: all 0.4s cubic-bezier(.55,0,.1,1);
     animation: breathehover 3s ease infinite;
