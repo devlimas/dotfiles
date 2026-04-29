@@ -36,3 +36,8 @@ Configurações personalizadas para **Linux** focadas em produtividade e no ambi
 
 **Kitty**
 ![kitty](screenshots/2026-04-28-131858_hyprshot.png)
+
+
+
+https://github.com/user-attachments/assets/125ff395-c0d5-4a9d-92df-7e68b03d8d62
+
